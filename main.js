@@ -73,8 +73,6 @@ function setData() {
             console.log(`Error: ${error}`)
         })
 }
-
-setData();
 // CRUD  Create Read Update Delete
 
 
